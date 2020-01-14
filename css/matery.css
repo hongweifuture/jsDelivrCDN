@@ -372,7 +372,7 @@ header .side-nav .social-link {
 
 .cover-btns {
     position: relative;
-    top: 20vh;
+    top: 10vh;
     text-align: center;
 }
 
@@ -510,7 +510,7 @@ header .side-nav .social-link {
 
 .cover-social-link {
     position: relative;
-    top: 3vh;
+    bottom: 7vh;
     width: 100%;
     text-align: center;
 }
